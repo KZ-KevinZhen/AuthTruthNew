@@ -52,8 +52,10 @@ A major challenge we faced was structuring the API responses in a format we coul
 ---
 
 ## Team
-**Aditya Vanswala** 
-**Kevin Zhen** 
+**Aditya Vanswala**, 
+
+**Kevin Zhen** , 
+
 **Saket Gupta** 
 
 ---
