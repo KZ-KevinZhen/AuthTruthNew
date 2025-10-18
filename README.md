@@ -37,10 +37,6 @@ A major challenge we faced was structuring the API responses in a format we coul
 
 ---
 
-## Try It Out
-
-* **Live Demo:** [View Project on Netlify](#)
-* **GitHub Repository:** [Contract Checker Repo](#)
 * **Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=BUtizdvIeEo)
 
 ---
