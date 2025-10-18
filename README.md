@@ -52,10 +52,9 @@ A major challenge we faced was structuring the API responses in a format we coul
 ---
 
 ## Team
-
-**Kevin Zhen** – Team Lead and Backend Developer
-**Aditya Vanswala** – Frontend Developer and Backend Support
-**Saket Gupta** – Frontend Developer
+**Aditya Vanswala** 
+**Kevin Zhen** 
+**Saket Gupta** 
 
 ---
 
